@@ -626,7 +626,7 @@ form textarea {
 .services-list div i {
     font-size: 4vw;
     margin-bottom: 2vh;
-    color: crimson;
+    color: rgb(17, 158, 240);
 }
 
 .services-list dev h2 {
@@ -637,7 +637,7 @@ form textarea {
 
 .services-list div a {
     text-decoration: none;
-    color: crimson;
+    color: blue;
     font-size: 1vw;
     margin-top: 2vh;
     display: inline-block;
