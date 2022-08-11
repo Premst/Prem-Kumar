@@ -1084,6 +1084,10 @@ form textarea {
     .services-list div a {
         font-size: 5vw;
     }
+     .footer{
+        font-size: 3vw;
+        padding-left: 5vw;
+    }
 }
 
 #menu:checked~.side-menu {
