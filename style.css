@@ -831,6 +831,10 @@ form textarea {
     .container h1 {
         font-size: 5vw;
     }
+    .contact-right span {    
+    margin-left: 15vh;
+    margin-top: -4vh;   
+   }
 }
 
 @media (max-width:690px) {
@@ -1088,6 +1092,9 @@ form textarea {
         font-size: 3vw;
         padding-left: 5vw;
     }
+      .contact-right span {    
+    margin-left: 16vh;     
+   }
 }
 
 #menu:checked~.side-menu {
