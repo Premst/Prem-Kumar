@@ -12,9 +12,9 @@
 //     });
 //     // typing Animation script 
     var typed=new Typed(".typing", {
-        strings:["Student", "Developer", "Freelancer", "Front-End Developer"],
-        typeSpeed:150,
-        backSpeed:150, 
+        strings:["Student", "Front-End Developer" "Programmer", "Freelancer"],
+        typeSpeed:130,
+        backSpeed:130, 
         loop:true
     });
 // });
