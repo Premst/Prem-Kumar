@@ -11,12 +11,12 @@
 //         $('html').animate({scrollTop:0});
 //     });
 //     // typing Animation script 
-//     var typed=new Typed("typing", {
-//         strings:["Student", "Developer", "Freelancer", "Front-End Developer"],
-//         typeSpeed:100,
-//         backSpeed:60, 
-//         loop:true
-//     });
+    var typed=new Typed(".typing", {
+        strings:["Student", "Developer", "Freelancer", "Front-End Developer"],
+        typeSpeed:150,
+        backSpeed:150, 
+        loop:true
+    });
 // });
 
 // -------------about--------------
