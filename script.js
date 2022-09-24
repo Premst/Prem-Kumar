@@ -33,3 +33,10 @@
 //     }
 //     event.currentTarget.classList.add("active-link");
 // }
+
+// loader
+
+var preloader = document.getElementById('loader');
+function myFunction(){
+    preloader.style.display = 'none';
+}
