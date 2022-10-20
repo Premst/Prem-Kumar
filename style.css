@@ -602,6 +602,9 @@ form textarea {
     margin-top: -5vh;
     display: block;
 }
+.contact-right p{
+    color:green;
+}
 
 /* --------------------project section------------ */
 
