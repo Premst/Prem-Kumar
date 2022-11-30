@@ -995,7 +995,7 @@ form textarea {
     .image img {
         margin-left: 30vw;
         width: 30vw;
-        padding-top: 8vh;
+        margin-top: 10vh;
     }
 
     .row {
