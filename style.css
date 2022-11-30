@@ -279,7 +279,9 @@ nav .menu-bar {
 }
 
 .image img {
-    width: 30vw;
+    width: 14vw;
+    margin: 0vw 10vw;
+    margin-top: 5vh;
 }
 
 .home .home-content .text-1 {
@@ -815,8 +817,8 @@ form textarea {
     }
 
     .image img {
-        margin-left: 30vw;
-        width: 40vw;
+        margin-left: 35vw;
+        width: 25vw;
         padding-top: 10vh;
     }
 
@@ -826,10 +828,12 @@ form textarea {
 
     .about-col-1 {
         margin-left: 20vw;
+        margin-top:5vh;
+        margin-bottom:5vh;
     }
 
     .about-col-2 {
-        margin-left: 20vw;
+        margin-left: 20vw;        
     }
 
     .about-col-1 img {
@@ -990,7 +994,7 @@ form textarea {
 
     .image img {
         margin-left: 30vw;
-        width: 40vw;
+        width: 30vw;
         padding-top: 8vh;
     }
 
@@ -1031,8 +1035,8 @@ form textarea {
     }
 
     .image img {
-        margin-left: 20vw;
-        width: 60vw;
+        margin-left: 25vw;
+        width: 40vw;
         padding-top: 5vh;
     }
 
