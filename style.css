@@ -825,6 +825,10 @@ form textarea {
     .row {
         display: block;
     }
+    
+     #about{
+        padding-top: 50vh;
+    }
 
     .about-col-1 {
         margin-left: 20vw;
