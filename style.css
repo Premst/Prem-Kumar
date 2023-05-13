@@ -462,32 +462,32 @@ nav .menu-bar {
 
 .html {
     animation: html 2s;
-    width: 90%;
+    width: 80%;
 }
 
 .css {
     animation: css 2s;
-    width: 80%;
+    width: 70%;
 }
 
 .javascript {
     animation: javascript 2s;
-    width: 50%;
+    width: 40%;
 }
 
 .bootstrap {
     animation: bootstrap 2s;
-    width: 80%;
+    width: 50%;
 }
 
 .c {
     animation: c 2s;
-    width: 85%;
+    width: 60%;
 }
 
 .cpp {
     animation: c++ 2s;
-    width: 90%;
+    width: 80%;
 }
 
 .education-content span {
